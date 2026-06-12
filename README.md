@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Siddharth Gupta
 
-<!--
-**sid-759/sid-759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Undergraduate (2026)
 
-Here are some ideas to get you started:
+🚀 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- Data Structures & Algorithms
+
+🛠 Tech Stack
+
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+📌 Featured Project
+
+### CareerForge
+AI-powered career preparation platform with:
+- ATS Resume Analysis
+- Resume vs Job Description Matching
+- AI Mock Interviews
+- Personalized Learning Roadmaps
+
+📫 Reach Me
+
+Email: siddharth7503@gmail.com
+LinkedIn: https://www.linkedin.com/in/siddharth-gupta-60b92a256/
